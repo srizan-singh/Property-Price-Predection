@@ -8,4 +8,4 @@
   - Delivered a user-friendly interface for input and predictions.  
 - **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib, Streamlit.  
 
-> 🚀 **Check out the project repository:** [Property Price Prediction](#)  
+> 🚀 **Check out the project Source Code:** [Property Price Prediction](https://github.com/srizan-singh/Property-Price-Predection/blob/main/Real%20State%20Price%20Predection.ipynb)  
